@@ -9,3 +9,7 @@
 * Facilitate student management for club owners
 * Provide different accesses to users according to their hierarchy
 * Provide management reports to site owners
+
+## Requirement
+Microsoft SQL Server Management Studio
+
