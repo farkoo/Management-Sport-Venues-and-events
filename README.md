@@ -13,3 +13,19 @@
 ## Requirement
 Microsoft SQL Server Management Studio
 
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/fark00/Management_Sport_Venues_events/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/fark00)
