@@ -10,6 +10,8 @@
 * Provide different accesses to users according to their hierarchy
 * Provide management reports to site owners
 
+<img src="https://github.com/fark00/Management_Sport_Venues_events/blob/master/Final-ERD.jpg">
+
 ## Requirement
 Microsoft SQL Server Management Studio
 
