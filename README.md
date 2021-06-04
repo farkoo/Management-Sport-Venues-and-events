@@ -31,4 +31,4 @@ Telegram id:
 ## License
 [MIT](https://github.com/fark00/Management_Sport_Venues_events/blob/master/LICENSE)
 &#0169; 
-[Farzaneh Koohestani](https://github.com/fark00)
+[Farzaneh Koohestani](https://github.com/farkoo)
